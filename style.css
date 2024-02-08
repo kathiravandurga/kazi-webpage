@@ -1,0 +1,112 @@
+.firstbox{
+    background-color: black;
+    
+
+}
+.nav-link{
+    color: white;
+    
+}
+
+
+
+.name{
+    color: white;
+    background-color: black;
+    padding: 250px;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+.secondbox{
+    position: relative;
+    top: 150px;
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+    
+}
+.secondbox1{
+    position: relative;
+    left: 50px;
+    flex-basis: 80%;
+    top: 50px;
+    
+}   
+.image{
+    flex-basis: 50%;
+    position: relative;
+
+    
+}
+.gap{
+    position: relative;
+    top: 50px;
+}
+.button{
+    position: relative;
+    top: 250px;
+    text-align: center;
+}
+.quate{
+
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+    background-color: black;
+    color: white;
+}
+.divquate{
+    position: relative;
+    top: 280px;
+}
+.awards{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: 350px;
+    text-decoration:dashed
+}
+.mainbox{
+    position: relative;
+    margin-left: 100px;
+    margin-right:100px;
+    top: 450px;
+    display: flex;
+    flex-direction: row;
+    gap:25px;
+    justify-items: auto;
+
+}
+.box{
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+    
+
+
+.row{
+    position: relative;
+    top: 600px;
+    row-gap: 200px;
+    
+}
+.ul{
+    position: relative;
+    top: 50px;
+}
+.col-4{
+    
+    border-left: 1px solid darkgrey;
+    
+    position: relative;
+    top: 70px;
+    padding: 70px;
+    background-color: black;
+    color: darkgray;
+}
